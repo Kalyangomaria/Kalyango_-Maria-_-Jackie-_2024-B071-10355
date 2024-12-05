@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+    padding: 10px;
+    text-align: center;
+    
+}
+h3{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: red;
+
+}
+img{
+    border-radius: 60%;
+    margin: auto;
+    display: block;
+    width: 40px;
+    height: 30px;
+    padding-left: 40px;
+}
+.container{
+    border: 3px;
+    height: 90%;
+    width: 100%;
+    background-color: aquamarine;
+}
+.nav{
+    background-color: bisque;
+}
+.hover{
+    color: brown;
+}
